@@ -1,4 +1,0 @@
-this is file 6
-new line in file 6
-another new line
-so many new lines

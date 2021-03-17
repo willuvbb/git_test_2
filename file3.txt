@@ -1,4 +1,0 @@
-this is file 3. it's new.
-and another
-and another
-i deleted the second line!

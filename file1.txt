@@ -1,6 +1,0 @@
-this is file 1
-new lines
-more new lines
-more
-morea
-so manylines

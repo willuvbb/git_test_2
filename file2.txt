@@ -1,3 +1,0 @@
-this is file 2
-this is another 
-removed the second line and added this one which would have been the 4th but now is the 3rd
