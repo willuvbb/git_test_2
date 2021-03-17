@@ -5,9 +5,6 @@
       <input type="text" id="text_input_1" token="text_1">
         <label>Text Input 1</label>
       </input>
-      <input type="text" id="text_input_2" token="text_2">
-        <label>Text Input 2</label>
-      </input>
       <input type="text" id="text_input_3" token="text_3">
         <label>Text Input 3</label>
       </input>
@@ -15,7 +12,6 @@
         <h4>
           This is a test Git dashboard.
         </h4>
-        <p>I am a paragraph in the test Git dashboard.</p>
         <p>I am a new paragraph in the test Git dashboard.</p>
       </html>
     </panel>
