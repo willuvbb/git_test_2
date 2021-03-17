@@ -1,0 +1,19 @@
+<form>
+  <label>Git Demo Dashboard</label>
+  <row>
+    <panel>
+      <input type="text" id="text_input_1" token="text_1">
+        <label>Text Input 1</label>
+      </input>
+      <input type="text" id="text_input_2" token="text_2">
+        <label>Text Input 2</label>
+      </input>
+      <html>
+        <h4>
+          This is a test Git dashboard.
+        </h4>
+        <p>I am a paragraph in the test Git dashboard.</p>
+      </html>
+    </panel>
+  </row>
+</form>

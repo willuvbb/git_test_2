@@ -1,0 +1,33 @@
+[app/ui]
+version = 8.1.0
+modtime = 1615835450.194384000
+
+[app/launcher]
+version = 8.1.0
+modtime = 1615835450.197411000
+
+[views/test_macro_dashboard]
+owner = admin
+version = 8.1.0
+modtime = 1615841826.254678000
+
+[indexes/fake_software_data]
+owner = admin
+version = 8.1.0
+modtime = 1615844945.650858000
+
+[indexes/fakesoftwaredataevents]
+owner = admin
+version = 8.1.0
+modtime = 1615846110.555438000
+
+[indexes/fake_sw_data]
+owner = admin
+version = 8.1.0
+modtime = 1615846141.568694000
+
+[views/git_demo_dashboard]
+export = none
+owner = admin
+version = 8.1.0
+modtime = 1615997406.984439000

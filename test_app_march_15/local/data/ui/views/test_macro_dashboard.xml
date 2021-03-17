@@ -1,0 +1,29 @@
+<form>
+  <row>
+    <panel>
+      <input type="dropdown" token="gss_input">
+        <label>gss</label>
+        <choice value="a">a</choice>
+        <choice value="b">b</choice>
+        <choice value="c">c</choice>
+      </input>
+      
+      <html>
+        `dropdown_template("index")`
+      </html>
+      
+      `dropdown_template("index")`
+      
+      
+      
+      | `dropdown_template("index")`
+      
+      <search>
+        <query>
+      | `dropdown_template("index")`    
+        </query>
+      </search>
+      
+    </panel>
+  </row>
+</form>
